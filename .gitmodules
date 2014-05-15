@@ -1,0 +1,9 @@
+[submodule "libgab"]
+	path = libgab
+	url = git://github.com/grenaud/libgab.git
+[submodule "htslib"]
+	path = htslib
+	url = git://github.com/samtools/htslib.git
+[submodule "VCFparser"]
+	path = VCFparser
+	url = git://github.com/grenaud/VCFparser.git
